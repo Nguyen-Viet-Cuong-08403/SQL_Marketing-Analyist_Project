@@ -40,8 +40,8 @@ ShopEasy, một doanh nghiệp bán lẻ trực tuyến, đang đối mặt vớ
    
    + Làm sạch vấn đề khoảng trắng trong cột ReviewText
 
-   ```
-   SELECT 
+```sql
+SELECT 
     ReviewID,   
     CustomerID, 
     ProductID,  
@@ -51,9 +51,8 @@ ShopEasy, một doanh nghiệp bán lẻ trực tuyến, đang đối mặt vớ
     REPLACE(ReviewText, '  ', ' ') AS ReviewText
    
 FROM 
-    dbo.customer_reviews;  
-  
-   ```
+    dbo.customer_reviews
+```
 
  + Phân tích nâng cao về Cảm xúc bằng Python
 
