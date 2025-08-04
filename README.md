@@ -33,3 +33,30 @@ ShopEasy, một doanh nghiệp bán lẻ trực tuyến, đang đối mặt vớ
  + Mục tiêu: Hiểu các chủ đề thường xuất hiện trong đánh giá của khách hàng và cung cấp thông tin có thể hành động.
 
  + Phân tích: Xác định những phản hồi tích cực và tiêu cực lặp lại để định hướng cải thiện sản phẩm và dịch vụ.
+
+### Các bước thực hiện 
+
+ + Xử lý, làm sạch dữ liệu bằng SQL
+
+ + Phân tích nâng cao về Cảm xúc bằng Python
+
+ + Xây dựng Dashboard bằng công cụ Power BI
+
+ + Trình bày, đưa ra đề xuất 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
