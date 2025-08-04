@@ -37,6 +37,22 @@ ShopEasy, một doanh nghiệp bán lẻ trực tuyến, đang đối mặt vớ
 ### Các bước thực hiện 
 
  + Xử lý, làm sạch dữ liệu bằng SQL
+   
+   + Làm sạch vấn đề khoảng trắng trong cột ReviewText
+
+   ```
+   SELECT 
+    ReviewID,   
+    CustomerID, 
+    ProductID,  
+    ReviewDate, 
+    Rating,     
+
+    REPLACE(ReviewText, '  ', ' ') AS ReviewText  
+
+FROM 
+    dbo.customer_reviews;  -- Xác định bảng nguồn để truy vấn dữ liệu
+   ```
 
  + Phân tích nâng cao về Cảm xúc bằng Python
 
