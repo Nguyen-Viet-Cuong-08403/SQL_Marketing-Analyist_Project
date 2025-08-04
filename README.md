@@ -208,7 +208,9 @@ customer_reviews_df.to_csv('fact_customer_reviews_with_sentiment.csv', index=Fal
      
 ![Overview](CustomerMediaDetail.png)
 
- + Trình bày, đưa ra đề xuất 
+ + Trình bày, đưa ra đề xuất
+   
+![Overview](tongquan.png)
 
 
 
