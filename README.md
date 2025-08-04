@@ -212,7 +212,7 @@ customer_reviews_df.to_csv('fact_customer_reviews_with_sentiment.csv', index=Fal
    
 ![Overview](tongquan.png)
 
-
+![Overview](giamtylechuyendoi1.png)
 
 
 
