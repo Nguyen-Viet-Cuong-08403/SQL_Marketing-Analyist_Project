@@ -192,6 +192,8 @@ customer_reviews_df.to_csv('fact_customer_reviews_with_sentiment.csv', index=Fal
 
  + Xây dựng Dashboard bằng công cụ Power BI
 
+   
+
  + Trình bày, đưa ra đề xuất 
 
 
