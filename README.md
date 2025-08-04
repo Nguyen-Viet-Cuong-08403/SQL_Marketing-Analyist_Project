@@ -192,13 +192,21 @@ customer_reviews_df.to_csv('fact_customer_reviews_with_sentiment.csv', index=Fal
 
  + Xây dựng Dashboard bằng công cụ Power BI
 
-   + Overview
+   + Overviews
 
 ![Overview](Overviews.png)
 
    + Conversion Details
      
-![Overview](Customer Media Detail.png)
+![Overview](ConversionDetail.png)
+
+   + Social Media Details
+     
+![Overview](SocialMediaDetail.png)
+
+  + Customer Review Details
+     
+![Overview](CustomerReviewDetail.png)
 
  + Trình bày, đưa ra đề xuất 
 
