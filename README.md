@@ -47,11 +47,12 @@ ShopEasy, một doanh nghiệp bán lẻ trực tuyến, đang đối mặt vớ
     ProductID,  
     ReviewDate, 
     Rating,     
-
-    REPLACE(ReviewText, '  ', ' ') AS ReviewText  
-
+   
+    REPLACE(ReviewText, '  ', ' ') AS ReviewText
+   
 FROM 
-    dbo.customer_reviews;  -- Xác định bảng nguồn để truy vấn dữ liệu
+    dbo.customer_reviews;  
+  
    ```
 
  + Phân tích nâng cao về Cảm xúc bằng Python
